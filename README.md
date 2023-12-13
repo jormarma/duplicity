@@ -1,6 +1,6 @@
-# My Rust Project
+# Duplicity
 
-This is a basic Rust project setup. 
+Utility that generates a SHA1 hash of a file.
 
 ## Structure
 
@@ -17,8 +17,8 @@ To get started with this project, you need to have Rust installed on your machin
 Once you have Rust installed, you can clone this repository and navigate into the project directory.
 
 ```bash
-git clone https://github.com/username/my-rust-project.git
-cd my-rust-project
+git clone git@github.com:jormarma/duplicity.git
+cd duplicity
 ```
 
 Then, you can build the project using Cargo.
@@ -44,10 +44,6 @@ cargo test
 ```
 
 This will run all the tests in the `tests` directory and display the results in the terminal.
-
-## Contributing
-
-If you want to contribute to this project, please feel free to fork the repository, make your changes, and submit a pull request. We appreciate any contributions!
 
 ## License
 
